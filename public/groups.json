@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Sunrise",
+    "levels": ["1", "12"],
+    "packs": ["Rise", "Grow", "Shine"]
+  },
+  {
+    "name": "Forest",
+    "levels": ["13", "80"],
+    "packs": ["Pine", "Dew", "Flow", "Fog", "Life"]
+  },
+  {
+    "name": "Canyon",
+    "levels": ["81", "160"],
+    "packs": ["Ravine", "Pass", "Arch", "Cliff", "Pillar"]
+  },
+  {
+    "name": "Sky",
+    "levels": ["161", "240"],
+    "packs": ["Wind", "Rays", "Dusk", "Cloud", "Sun"]
+  },
+  {
+    "name": "Tropic",
+    "levels": ["241", "320"],
+    "packs": ["Shore", "Frond", "Palm", "Beach", "Coast"]
+  },
+  {
+    "name": "Mountain",
+    "levels": ["321", "400"],
+    "packs": ["Crest", "Fjord", "Climb", "Scale", "Peak"]
+  },
+  {
+    "name": "Winter",
+    "levels": ["401", "480"],
+    "packs": ["Chill", "Bite", "Flake", "White", "Frost"]
+  },
+  {
+    "name": "Flora",
+    "levels": ["481", "560"],
+    "packs": ["Petal", "Lily", "Bloom", "Field", "Seed"]
+  },
+  {
+    "name": "Autumn",
+    "levels": ["561", "640"],
+    "packs": ["Fall", "Bark", "Red", "Vivid", "Cover"]
+  },
+  {
+    "name": "Jungle",
+    "levels": ["641", "720"],
+    "packs": ["Vine", "Thick", "Wild", "Lush", "Green"]
+  },
+  {
+    "name": "Desert",
+    "levels": ["721", "800"],
+    "packs": ["Spire", "Rock", "Sierra", "Dune", "Sand"]
+  },
+  {
+    "name": "Ocean",
+    "levels": ["801", "880"],
+    "packs": ["Vast", "Wave", "Storm", "Blue", "Depth"]
+  },
+  {
+    "name": "Field",
+    "levels": ["881", "960"],
+    "packs": ["Sail", "Haze", "Soar", "Wind", "Amber"]
+  },
+  {
+    "name": "Lake",
+    "levels": ["961", "1040"],
+    "packs": ["Calm", "Set", "Serene", "Air", "Grace"]
+  },
+  {
+    "name": "Vista",
+    "levels": ["1041", "1120"],
+    "packs": ["Climb", "Above", "Fall", "Below", "Arrive"]
+  },
+  {
+    "name": "Cliff",
+    "levels": ["1121", "1200"],
+    "packs": ["Mist", "Bright", "Dawn", "Brood", "View"]
+  },
+  {
+    "name": "Beach",
+    "levels": ["1201", "1280"],
+    "packs": ["Fresh", "Shell", "Wash", "Aqua", "Pebble"]
+  },
+  {
+    "name": "Fog",
+    "levels": ["1281", "1360"],
+    "packs": ["Wood", "Valley", "Lake", "Range", "River"]
+  },
+  {
+    "name": "Celestial",
+    "levels": ["1361", "1440"],
+    "packs": ["Cosmo", "Luna", "Strato", "Polar", "Solis"]
+  },
+  {
+    "name": "Woodland",
+    "levels": ["1441", "1520"],
+    "packs": ["Ray", "Azure", "Toad", "Brook", "Leaf"]
+  },
+  {
+    "name": "Outback",
+    "levels": ["1521", "1600"],
+    "packs": ["Flat", "Erode", "Arid", "Lime", "Arch"]
+  },
+  {
+    "name": "Frost",
+    "levels": ["1601", "1680"],
+    "packs": ["White", "Valley", "Lake", "Icey", "Shine"]
+  },
+  {
+    "name": "Timberland",
+    "levels": ["1681", "1760"],
+    "packs": ["Mist", "Bright", "Dawn", "Brood", "View"]
+  },
+  {
+    "name": "Hills",
+    "levels": ["1761", "1840"],
+    "packs": ["Climb", "Above", "Fall", "Below", "Arrive"]
+  },
+  {
+    "name": "Mist",
+    "levels": ["1841", "1920"],
+    "packs": ["Ray", "Azure", "Toad", "Brook", "Leaf"]
+  },
+  {
+    "name": "Formation",
+    "levels": ["1921", "2000"],
+    "packs": ["Calm", "Set", "Serene", "Air", "Grace"]
+  },
+  {
+    "name": "Coast",
+    "levels": ["2001", "2080"],
+    "packs": ["Fresh", "Shell", "Wash", "Aqua", "Pebble"]
+  },
+  {
+    "name": "Twilight",
+    "levels": ["2081", "2160"],
+    "packs": ["Mist", "Bright", "Dawn", "Brood", "View"]
+  },
+  {
+    "name": "Marsh",
+    "levels": ["2161", "2240"],
+    "packs": ["Fall", "Bark", "Red", "Vivid", "Cover"]
+  },
+  {
+    "name": "Woods",
+    "levels": ["2241", "2320"],
+    "packs": ["Fir", "Leaf", "Fall", "Mossy", "Bright"]
+  },
+  {
+    "name": "Arid",
+    "levels": ["2321", "2400"],
+    "packs": ["Rise", "Sand", "Dawn", "Drift", "Dry"]
+  },
+  {
+    "name": "Tide",
+    "levels": ["2401", "2480"],
+    "packs": ["Ripple", "Wave", "Calm", "Breeze", "Float"]
+  },
+  {
+    "name": "Passage",
+    "levels": ["2481", "2560"],
+    "packs": ["River", "Curve", "Hole", "Mist", "Spire"]
+  },
+  {
+    "name": "Air",
+    "levels": ["2561", "2640"],
+    "packs": ["Valley", "Sky", "Lake", "Vast", "Shore"]
+  },
+  {
+    "name": "Lagoon",
+    "levels": ["2641", "2720"],
+    "packs": ["Palm", "Beach", "Clear", "Star", "Dusk"]
+  },
+  {
+    "name": "Peak",
+    "levels": ["2721", "2800"],
+    "packs": ["Valley", "Up", "Height", "Peace", "Crest"]
+  },
+  {
+    "name": "Ice",
+    "levels": ["2801", "2880"],
+    "packs": ["Frost", "Freeze", "Light", "Melt", "Snow"]
+  },
+  {
+    "name": "Bloom",
+    "levels": ["2881", "2960"],
+    "packs": ["Mist", "Pond", "Shine", "Grass", "Frond"]
+  },
+  {
+    "name": "Fall",
+    "levels": ["2961", "3040"],
+    "packs": ["Fog", "Birch", "Ruby", "Oak", "Grove"]
+  },
+  {
+    "name": "Rain forest",
+    "levels": ["3041", "3120"],
+    "packs": ["Green", "Grow", "Curl", "Frond", "Lush"]
+  },
+  {
+    "name": "Rows",
+    "levels": ["3121", "3200"],
+    "packs": ["Field", "Lines", "Far", "Grain", "Seed"]
+  },
+  {
+    "name": "Basin",
+    "levels": ["3201", "3280"],
+    "packs": ["Chill", "Slope", "Rock", "Cove", "Marsh"]
+  },
+  {
+    "name": "View",
+    "levels": ["3281", "3360"],
+    "packs": ["View", "River", "Cliff", "Rapid", "Pine"]
+  },
+  {
+    "name": "Precipice",
+    "levels": ["3361", "3440"],
+    "packs": ["Below", "Coast", "Sea", "Lavish", "Bluff"]
+  },
+  {
+    "name": "Starlight",
+    "levels": ["3441", "3520"],
+    "packs": ["Light", "Gaze", "Sky", "Watch", "Shine"]
+  },
+  {
+    "name": "Reflect",
+    "levels": ["3521", "3600"],
+    "packs": ["Glass", "Still", "Crest", "Ripple", "Arise"]
+  },
+  {
+    "name": "Majesty",
+    "levels": ["3601", "3680"],
+    "packs": ["Pyre", "Opal", "Zeal", "Fit", "Space"]
+  },
+  {
+    "name": "Astral",
+    "levels": ["3681", "3760"],
+    "packs": ["Bright", "Emit", "Sol", "Arise", "Gift"]
+  },
+  {
+    "name": "Stone",
+    "levels": ["3761", "3840"],
+    "packs": ["Bask", "Wall", "Chisel", "Tower", "Wisp"]
+  },
+  {
+    "name": "Green",
+    "levels": ["3841", "3920"],
+    "packs": ["Fern", "Leaf", "Aerial", "Bank", "Roll"]
+  },
+  {
+    "name": "West",
+    "levels": ["3921", "4000"],
+    "packs": ["Heat", "Erode", "Bare", "Set", "Fuchsia"]
+  },
+  {
+    "name": "Wind",
+    "levels": ["4001", "4080"],
+    "packs": ["Breeze", "Gust", "Air", "Gale", "Whisk"]
+  },
+  {
+    "name": "Shore",
+    "levels": ["4081", "4160"],
+    "packs": ["Sand", "Brim", "Bank", "Tide", "Sea"]
+  },
+  {
+    "name": "Ravine",
+    "levels": ["4161", "4240"],
+    "packs": ["Gully", "Chasm", "Flume", "Pass", "Depth"]
+  },
+  {
+    "name": "Botanical",
+    "levels": ["4241", "4320"],
+    "packs": ["Grass", "Vine", "Shrub", "Flower", "Tree"]
+  },
+  {
+    "name": "Arctic",
+    "levels": ["4321", "4400"],
+    "packs": ["Glacial", "Frigid", "Polar", "Glaze", "Ice"]
+  },
+  {
+    "name": "Galaxy",
+    "levels": ["4401", "4480"],
+    "packs": ["Celest", "Sky", "Sol", "Depth", "Moon"]
+  },
+  {
+    "name": "Tower",
+    "levels": ["4481", "4560"],
+    "packs": ["Crag", "Geode", "Grand", "Crest", "Top"]
+  },
+  {
+    "name": "Placid",
+    "levels": ["4561", "4640"],
+    "packs": ["Still", "Calm", "Quell", "Flat", "Bare"]
+  },
+  {
+    "name": "Thrive",
+    "levels": ["4641", "4720"],
+    "packs": ["Bud", "Seed", "Jade", "Fern", "Verde"]
+  },
+  {
+    "name": "Parched",
+    "levels": ["4721", "4800"],
+    "packs": ["Crag", "Swept", "Plain", "Dust", "Warm"]
+  },
+  {
+    "name": "Frigid",
+    "levels": ["4801", "4880"],
+    "packs": ["Icicle", "Sleet", "Chill", "Shiver", "Cube"]
+  },
+  {
+    "name": "Flourish",
+    "levels": ["4881", "4960"],
+    "packs": ["Bulb", "Float", "Bud", "Pollen", "Bloom"]
+  },
+  {
+    "name": "Aurora",
+    "levels": ["4961", "5040"],
+    "packs": ["Star", "Way", "Bask", "Vast", "Space"]
+  },
+  {
+    "name": "Crest",
+    "levels": ["5041", "5120"],
+    "packs": ["Fault", "Peak", "Crag", "High", "Climb"]
+  },
+  {
+    "name": "Foliage",
+    "levels": ["5121", "5200"],
+    "packs": ["Wood", "Mist", "Path", "Lush", "Grove"]
+  },
+  {
+    "name": "Wildwood",
+    "levels": ["5201", "5280"],
+    "packs": ["Marsh", "Erode", "Solice", "Adrift", "Inlet"]
+  },
+  {
+    "name": "Bare",
+    "levels": ["5281", "5360"],
+    "packs": ["Tower", "Stone", "Desert", "Knoll", "Brink"]
+  },
+  {
+    "name": "High seas",
+    "levels": ["5361", "5440"],
+    "packs": ["Under", "Crest", "Squall", "Azure", "Brisk"]
+  },
+  {
+    "name": "Meadow",
+    "levels": ["5441", "5520"],
+    "packs": ["Soar", "Lane", "Fall", "Gale", "Gold"]
+  },
+  {
+    "name": "Tarn",
+    "levels": ["5521", "5600"],
+    "packs": ["Still", "Rock", "Placid", "Still2", "Peace"]
+  },
+  {
+    "name": "Summit",
+    "levels": ["5601", "5680"],
+    "packs": ["Rise", "Aloft", "Free", "Flow", "Reach"]
+  },
+  {
+    "name": "Bluff",
+    "levels": ["5681", "5760"],
+    "packs": ["Haze", "Join", "Blush", "Flock", "Vista"]
+  },
+  {
+    "name": "Strand",
+    "levels": ["5761", "5840"],
+    "packs": ["Gleam", "Chase", "Bank", "Tide", "Soak"]
+  },
+  {
+    "name": "Cloud",
+    "levels": ["5841", "5920"],
+    "packs": ["Grove", "Vale", "Pond", "Field", "Steam"]
+  },
+  {
+    "name": "Sublime",
+    "levels": ["5921", "6000"],
+    "packs": ["Mood", "Moon", "Stars", "Arctic", "Sails"]
+  }
+]

@@ -1,0 +1,162 @@
+{
+  "1": {
+    "level": 1,
+    "name": "Rise 1",
+    "letters": ["a", "c", "t"],
+    "cols": 3,
+    "rows": 3,
+    "grid": [
+      ["c", "a", "t"],
+      [null, "c", null],
+      [null, "t", null]
+    ]
+  },
+  "2": {
+    "level": 2,
+    "name": "Rise 2",
+    "letters": ["w", "o", "n"],
+    "cols": 3,
+    "rows": 4,
+    "grid": [
+      ["o", null, null],
+      ["w", "o", "n"],
+      ["n", null, "o"],
+      [null, null, "w"]
+    ]
+  },
+  "3": {
+    "level": 3,
+    "name": "Rise 3",
+    "letters": ["r", "a", "e"],
+    "cols": 3,
+    "rows": 4,
+    "grid": [
+      ["a", null, null],
+      ["r", null, "e"],
+      ["e", "a", "r"],
+      [null, null, "a"]
+    ]
+  },
+  "4": {
+    "level": 4,
+    "name": "Rise 4",
+    "letters": ["a", "t", "p"],
+    "cols": 3,
+    "rows": 3,
+    "grid": [
+      ["t", null, "a"],
+      ["a", null, "p"],
+      ["p", "a", "t"]
+    ]
+  },
+  "5": {
+    "level": 5,
+    "name": "Grow 1",
+    "letters": ["d", "p", "i", "r"],
+    "cols": 5,
+    "rows": 5,
+    "grid": [
+      [null, null, null, null, "d"],
+      ["r", "i", "d", null, "i"],
+      [null, null, "r", "i", "p"],
+      [null, null, "i", null, null],
+      [null, null, "p", null, null]
+    ]
+  },
+  "6": {
+    "level": 6,
+    "name": "Grow 2",
+    "letters": ["f", "r", "i", "a"],
+    "cols": 5,
+    "rows": 5,
+    "grid": [
+      [null, null, null, null, "f"],
+      [null, null, null, null, "i"],
+      [null, "f", "a", "i", "r"],
+      [null, null, "i", null, null],
+      ["f", "a", "r", null, null]
+    ]
+  },
+  "7": {
+    "level": 7,
+    "name": "Grow 3",
+    "letters": ["d", "t", "n", "e"],
+    "cols": 6,
+    "rows": 5,
+    "grid": [
+      [null, null, "e", null, null, "n"],
+      ["t", "e", "n", null, null, "e"],
+      ["e", null, "d", "e", "n", "t"],
+      ["n", null, null, null, null, null],
+      ["d", "e", "n", null, null, null]
+    ]
+  },
+  "8": {
+    "level": 8,
+    "name": "Grow 4",
+    "letters": ["p", "k", "r", "a"],
+    "cols": 5,
+    "rows": 4,
+    "grid": [
+      ["r", null, "p", null, null],
+      ["a", null, "a", "r", "k"],
+      ["p", "a", "r", null, null],
+      [null, null, "k", null, null]
+    ]
+  },
+  "9": {
+    "level": 9,
+    "name": "Shine 1",
+    "letters": ["n", "u", "o", "t"],
+    "cols": 5,
+    "rows": 4,
+    "grid": [
+      [null, null, null, null, "u"],
+      ["n", "o", "t", null, "n"],
+      ["u", null, "o", "u", "t"],
+      ["t", null, "n", null, "o"]
+    ]
+  },
+  "10": {
+    "level": 10,
+    "name": "Shine 2",
+    "letters": ["a", "d", "y", "l"],
+    "cols": 5,
+    "rows": 5,
+    "grid": [
+      ["l", "a", "d", null, "l"],
+      [null, null, null, null, "a"],
+      [null, "l", "a", "d", "y"],
+      [null, null, null, "a", null],
+      [null, null, null, "y", null]
+    ]
+  },
+  "11": {
+    "level": 11,
+    "name": "Shine 3",
+    "letters": ["a", "t", "e", "b"],
+    "cols": 7,
+    "rows": 5,
+    "grid": [
+      [null, null, "b", "e", "t", "a", null],
+      [null, null, "a", null, "a", null, null],
+      ["e", "a", "t", null, "b", "e", "t"],
+      [null, "t", null, null, null, null, "e"],
+      ["b", "e", "a", "t", null, null, "a"]
+    ]
+  },
+  "12": {
+    "level": 12,
+    "name": "Shine 4",
+    "letters": ["r", "b", "a", "n"],
+    "cols": 6,
+    "rows": 5,
+    "grid": [
+      [null, "b", "a", "r", null, "b"],
+      [null, "r", null, "a", null, "r"],
+      ["b", "a", "r", "n", null, "a"],
+      ["a", null, null, null, null, "n"],
+      ["n", "a", "b", null, null, null]
+    ]
+  }
+}
